@@ -1,0 +1,544 @@
+# Parameters#
+starting_salary <- 87500#
+years <- 30#
+salary_growth <- 0.02#
+investment_return <- 0.06#
+employer_contribution <- 0.15#
+employee_contribution <- 0.09#
+#
+# Initialize total balance#
+total_balance <- 0#
+#
+# Loop over each year#
+for (year in 0:(years - 1)) {#
+  current_salary <- starting_salary * (1 + salary_growth)^year#
+  annual_contribution <- current_salary * (employer_contribution + employee_contribution)#
+  total_balance <- total_balance * (1 + investment_return) + annual_contribution#
+}#
+#
+# Print result#
+cat(sprintf("Projected 403(b) Balance After 30 Years: $%.2f\n", total_balance))
+# Parameters#
+starting_salary <- 87500#
+years <- 30#
+salary_growth <- 0.02#
+employer_contribution <- 0.15#
+employee_contribution <- 0.09#
+annual_contribution_rate <- employer_contribution + employee_contribution#
+#
+# Simulation settings#
+n_simulations <- 10000#
+mean_return <- 0.06  # average expected return#
+std_dev <- 0.15      # standard deviation to simulate real market volatility#
+#
+# Storage for ending balances#
+ending_balances <- numeric(n_simulations)#
+#
+# Run 10,000 simulations#
+for (i in 1:n_simulations) {#
+  total_balance <- 0#
+  salary <- starting_salary#
+  for (year in 1:years) {#
+    # Simulate one year of market return#
+    investment_return <- rnorm(1, mean_return, std_dev)#
+    annual_contribution <- salary * annual_contribution_rate#
+    total_balance <- total_balance * (1 + investment_return) + annual_contribution#
+    salary <- salary * (1 + salary_growth)#
+  }#
+  ending_balances[i] <- total_balance#
+}#
+#
+# Compare to pension equivalent#
+pension_equivalent <- 95082 / 0.04  # = $2.38 million#
+better_than_pension <- mean(ending_balances >= pension_equivalent) * 100#
+#
+# Summary#
+cat(sprintf("Percent of 403(b) simulations that beat the pension equivalent: %.2f%%\n", better_than_pension))#
+cat(sprintf("Median final balance: $%.2f\n", median(ending_balances)))#
+cat(sprintf("Max final balance: $%.2f\n", max(ending_balances)))#
+cat(sprintf("Min final balance: $%.2f\n", min(ending_balances)))
+# Estimate Social Security income at $30,000/year#
+social_security_income <- 30000#
+#
+# Adjusted income goal for 403(b)#
+adjusted_income_goal <- 174069 - social_security_income#
+#
+# Calculate the required 403(b) balance for the adjusted income goal using the 4% rule#
+required_403b_balance_adjusted <- adjusted_income_goal / 0.04  # 4% withdrawal rule#
+#
+# Print the result#
+cat(sprintf("Required 403(b) Balance for adjusted income goal: $%.2f\n", required_403b_balance_adjusted))
+# Given data#
+future_value <- 174069  # The value in 2057#
+inflation_rate <- 0.03  # 3% annual inflation#
+years <- 2057 - 2025  # Number of years from 2025 to 2057#
+#
+# Calculate the value in today's money using the formula for present value#
+present_value <- future_value / (1 + inflation_rate) ^ years#
+print(present_value)
+# Given data#
+annual_withdrawal <- 67597.44  # Annual withdrawal amount#
+#
+# Calculate the capital needed using the 4% rule#
+capital_needed <- annual_withdrawal / 0.04#
+print(capital_needed)
+library(neonUtilities)#
+library(tidyverse)#
+#
+# NEON site environmental conditions#
+precip_code = "DP1.00006.001"#
+photosyn_radiation_code = "DP1.00066.001"#
+# WARNING -- changed from DP1.10008.001 will need downstream changes vvv#
+soil_chemical_init_code = "DP1.10047.001" # 46 sites, up to 2m depth, by horizon layers#
+# One record is expected to appear in spc_biogeochem for each unique value of biogeoIDnrcs, but duplicates and/or missing data may exist where protocol and/or data entry aberrations have occurred. Soil pit and horizon metadata associated with these records can be found in the Soil physical properties (Distributed initial characterization) data product.#
+# WARNING -- changed from DP1.10078.001 will need downstream changes vvv#
+soil_chemical_periodic_code = "DP1.10086.001" # 33 sites, C/N, mineral vs. organic top 30 cm soil#
+# A cnSampleID may appear from one to four times in sls_soilChemistry, depending on whether analytical replicates were conducted and whether the sample was acidified to remove carbonate prior to analysis. There should only be one instance per cnSampleID x analyticalRepNumber x acidTreatment combination, yet duplicates may exist where protocol and/or data entry aberrations have occurred. Users should check data carefully for anomalies before analyzing data.#
+soil_physical_init_code = "DP1.10047.001" # 46 sites, #
+# Data are reported by horizon for the top 1m of the soil profile#
+# Each soil pit sampled yields a unique pitID in the spc_perplot table. A record from spc_perplot then has several child records, one for each horizon in the pit, in spc_perhorizon. Each horizon record from spc_perhorizon will then have zero or one child records in spc_bulkdensity and spc_particlesize. Duplicates may exist where protocol and/or data entry aberrations have occurred; users should check data carefully for anomalies before joining tables.#
+soil_physical_periodic_code = "DP1.10086.001" # 47 sites, #
+# Soil physical properties from the top 30 cm (mineral vs. organic)#
+# A record from sls_soilCoreCollection may have zero or one child records in sls_soilpH and sls_soilMoisture; a given sls_soilCoreCollection.sampleID is expected to be sampled one time per collectDate (local time). Depending on the type of bout and time of year, a record from sls_soilCoreCollection may have zero or one child records in sls_metagenomicsPooling and in sls_bgcSubsampling. Duplicates may exist where protocol and/or data entry aberrations have occurred; users should check data carefully for anomalies before joining tables.#
+soil_chemical_megapit_code = "DP1.00097.001" # 47 sites, <2mm fractions, one pit per site#
+soil_physical_megapit_code = "DP1.00096.001" # 47 sites, one pit per site#
+# because pit data only has 1 value per site, maybe not use it ....#
+# Soil chemical properties are measured by horizon from a single temporary soil pit at each terrestrial site at depths of up to 200 cm at non-permafrost sites (up to 300 cm at Alaskan sites). The sampling location is expected to be representative of the NEON sensor-based soil plots and this sampling activity is expected to occur once at each NEON terrestrial site. #
+#
+# initial soil data ----#
+if(!file.exists("data/soil_chem_init.rds")){#
+  all_tabs_soil_chem_init <- neonUtilities::loadByProduct(#
+    dpID = soil_chemical_init_code,#
+    # site = site_id, #
+    check.size = F)#
+  saveRDS(all_tabs_soil_chem_init, "data/soil_chem_init.rds")#
+} else {#
+  all_tabs_soil_chem_init = readRDS("data/soil_chem_init.rds")#
+}#
+#
+# View(all_tabs_soil_chem_init$variables)#
+# names(all_tabs_soil_chem_init)#
+# names(all_tabs_soil_chem_init$spc_biogeochem)#
+soil_chem_init = select(all_tabs_soil_chem_init$spc_biogeochem,#
+                        site = siteID, plot = plotID, collectDate, horizonName,#
+                        biogeoIDnrcs, biogeoSampleType, biogeoTopDepth, biogeoBottomDepth,#
+                        biogeoCenterDepth, airDryOvenDryRatio, phH2o, carbonTot,#
+                        nitrogenTot, ctonRatio, estimatedOC, sulfurTot) %>% #
+  distinct() %>% as_tibble() %>% #
+  mutate(yr = lubridate::year(as.character(collectDate))) %>% #
+  rename(collectDate_chem = collectDate)#
+#
+# physical data#
+if(!file.exists("data/soil_physic_init.rds")){#
+  all_tabs_soil_physic_init <- neonUtilities::loadByProduct(#
+    dpID = soil_physical_init_code,#
+    # site = site_id, #
+    check.size = F)#
+  saveRDS(all_tabs_soil_physic_init, "data/soil_physic_init.rds")#
+} else {#
+  all_tabs_soil_physic_init = readRDS("data/soil_physic_init.rds")#
+}#
+#
+# names(all_tabs_soil_physic_init)#
+# View(all_tabs_soil_physic_init$variables_10047)#
+# View(all_tabs_soil_physic_init$variables_10047)#
+# View(all_tabs_soil_physic_init$spc_perplot)#
+# View(all_tabs_soil_physic_init$spc_perhorizon)#
+# View(all_tabs_soil_physic_init$spc_bulkdensity)#
+# str(all_tabs_soil_physic_init$spc_particlesize)#
+soil_physic_init = select(all_tabs_soil_physic_init$spc_particlesize,#
+                          site = siteID, plot = plotID, #
+                          collectDate_physic = collectDate, horizonName,#
+                          biogeoIDnrcs, biogeoSampleType, biogeoTopDepth, biogeoBottomDepth,#
+                          biogeoCenterDepth, sandTotal, siltTotal, clayTotal) %>% #
+  distinct() %>% as_tibble() %>% #
+  mutate(yr = lubridate::year(lubridate::ymd(as.character(collectDate_physic))))#
+#
+soil_chem_physic_init = left_join(soil_chem_init, soil_physic_init) %>% #
+  arrange(site, plot, biogeoCenterDepth) %>% #
+  mutate(c_perc = carbonTot/10, # g per kg --> percentage#
+         n_perc = nitrogenTot/10,#
+         org_matt_perc = estimatedOC/10,#
+         s_perc = sulfurTot/10)#
+#
+# how deep each site went?#
+soil_chem_physic_init %>% #
+  group_by(site) %>% #
+  summarise(max_dep = max(biogeoCenterDepth, na.rm = T)) %>% #
+  pull(max_dep) %>% sort() # from 28 cm to 209 cm#
+#
+# sort(table(soil_chem_physic_init$biogeoCenterDepth))#
+soil_chem_physic_init2 = soil_chem_physic_init %>% #
+  filter(biogeoCenterDepth < 30) %>% #
+  # up to 30 cm so that we can combine periodic data too#
+  group_by(site, plot, yr) %>% #
+  summarise(ave_c_perc = mean(c_perc, na.rm = T),#
+            ave_n_perc = mean(n_perc, na.rm = T),#
+            ave_org_matt_perc = mean(org_matt_perc, na.rm = T),#
+            ave_s_perc = mean(s_perc, na.rm = T),#
+            ave_ph = mean(phH2o, na.rm = T),#
+            ave_sand_perc = mean(sandTotal, na.rm = T),#
+            ave_silt_perc = mean(siltTotal, na.rm = T),#
+            ave_clay_perc = mean(clayTotal, na.rm = T)) %>% #
+  ungroup()#
+#
+# hist(soil_chem_physic_init2$ave_n_perc)#
+#
+# lat/long#
+names(all_tabs_soil_physic_init$spc_perplot)#
+site_plot_loc = select(all_tabs_soil_physic_init$spc_perplot, #
+                       site = siteID, plot = plotID, #
+                       lat = decimalLatitude, long = decimalLongitude,#
+                       plotType, nlcdClass, elevation) %>% #
+  distinct() %>% as_tibble()#
+all(soil_chem_physic_init2$plot %in% site_plot_loc$plot)#
+#
+# soil_chem_physic_init2 = left_join(soil_chem_physic_init2, site_plot_loc)#
+# #
+# THIS BELOW NEEDS TO BE FIXED#
+# left_join(soil_chem_physic_init2,#
+# soil_chem_physic_init2 %>% #
+#   group_by(site) %>% #
+#   summarise(ave_n = mean(ave_n_perc))) %>% #
+#   left_join(neon_sites) %>% #
+#   mutate(site2 = forcats::fct_reorder(site2, ave_n)) %>% #
+#   ggplot(aes(x = ave_n_perc, y = site2, color = lat)) +#
+#   geom_boxplot(outlier.alpha = 0) +#
+#   geom_jitter() +#
+#   scale_color_viridis_c() +#
+#   labs(x = "Average soil Nitrogen percent across horizons (up to 1 m) per plot",#
+#        y = NULL) +#
+#   theme(legend.position = c(0.8, 0.3))#
+# ggsave("figures/soil_N_plot_site.pdf", width = 9, height = 11)#
+#
+# how many plots don't have soil data?#
+# n_distinct(setdiff(sp_richness_site_plot$plot, soil_chem_physic_init2$plot)) /#
+#   n_distinct(sp_richness_site_plot$plot) # 835 / 1520 = 0.5493#
+#
+# periodic soil data ----#
+# soils are sampled at all terrestrial NEON sites from three pre-determined, randomly assigned x,y locations per 40 x 40 meter plot. Soils are sampled to a maximum depth of 30 cm and separated by horizon type (mineral vs organic). Ten plots per site are sampled, four within the Tower airshed and six others distributed across the landscape and located in dominant vegetation types.#
+if(!file.exists("data/soil_chem_periodic.rds")){#
+  all_tabs_soil_chem_periodic <- neonUtilities::loadByProduct(#
+    dpID = soil_chemical_periodic_code,#
+    # site = site_id, #
+    check.size = F)#
+  saveRDS(all_tabs_soil_chem_periodic, "data/soil_chem_periodic.rds")#
+} else {#
+  all_tabs_soil_chem_periodic = readRDS("data/soil_chem_periodic.rds")#
+}
+soil_chem_periodic = select(all_tabs_soil_chem_periodic$sls_soilChemistry,#
+                            site = siteID, plot = plotID, collectDate, sampleID,#
+                            sampleType, nitrogenPercent, organicCPercent, CNratio) %>% #
+  distinct() %>% as_tibble() %>% #
+  mutate(yr = lubridate::year(collectDate)) %>% #
+  rename(collectDate_chem = collectDate) %>% #
+  group_by(site, plot, collectDate_chem, sampleID) %>% #
+  summarise(nitrogenPercent = mean(nitrogenPercent, na.rm = T),#
+            organicCPercent = mean(organicCPercent, na.rm = T),#
+            CNratio = mean(CNratio, na.rm = T)) %>% #
+  ungroup() %>% #
+  mutate(layers_O_M = str_sub(sampleID, 10, 10),#
+         xy_in_plot = gsub(".*[OM]-(.*)-[0-9]{8}$", "\\1", sampleID),#
+         yr = lubridate::year(collectDate_chem))
+soil_chem_periodic_ave = soil_chem_periodic %>% #
+  group_by(site, plot, yr) %>% #
+  summarise(ave_n_perc_periodic = mean(nitrogenPercent, na.rm = T),#
+            ave_c_perc_periodic = mean(organicCPercent, na.rm = T)) %>% #
+  ungroup()
+if(!file.exists("data/soil_physic_periodic.rds")){#
+  all_tabs_soil_physic_periodic <- neonUtilities::loadByProduct(#
+    dpID = soil_physical_periodic_code,#
+    # site = site_id,#
+    check.size = F)#
+  saveRDS(all_tabs_soil_physic_periodic, "data/soil_physic_periodic.rds")#
+} else {#
+  all_tabs_soil_physic_periodic = readRDS("data/soil_physic_periodic.rds")#
+}
+if(!file.exists("data/soil_physic_periodic.rds")){#
+  all_tabs_soil_physic_periodic <- neonUtilities::loadByProduct(#
+    dpID = soil_physical_periodic_code,#
+    # site = site_id,#
+    check.size = F)#
+  saveRDS(all_tabs_soil_physic_periodic, "data/soil_physic_periodic.rds")#
+} else {#
+  all_tabs_soil_physic_periodic = readRDS("data/soil_physic_periodic.rds")#
+}
+soil_physic_periodic_ph = select(all_tabs_soil_physic_periodic$sls_soilpH,#
+                                 site = siteID, plot = plotID,#
+                                 collectDate = collectDate, sampleID,#
+                                 soilInWaterpH, soilInCaClpH) %>%#
+  distinct() %>% as_tibble() %>%#
+  mutate(yr = lubridate::year(collectDate),#
+         layers_O_M = str_sub(sampleID, 10, 10),#
+         xy_in_plot = gsub(".*[OM]-(.*)-[0-9]{8}$", "\\1", sampleID)) %>% #
+  group_by(site, plot, yr) %>% #
+  summarise(ave_ph_periodic = mean(soilInWaterpH, na.rm = T)) %>% #
+  ungroup()
+soil_chem_physic_periodic = full_join(soil_chem_periodic_ave, soil_physic_periodic_ph) %>%#
+  arrange(site, plot, yr)#
+#
+site_plot_loc2 = select(all_tabs_soil_physic_periodic$sls_soilCoreCollection, #
+                        site = siteID, plot = plotID, #
+                        lat = decimalLatitude, long = decimalLongitude,#
+                        plotType, nlcdClass, elevation) %>% #
+  distinct() %>% as_tibble()#
+site_plot_loc3 = full_join(site_plot_loc, site_plot_loc2) %>% #
+  distinct() %>% #
+  group_by(site, plot) %>% #
+  summarise(lat = mean(lat, na.rm = T),#
+            long = mean(long, na.rm = T),#
+            elevation = mean(elevation, na.rm = T),#
+            plotType = unique(plotType),#
+            nlcdClass = unique(nlcdClass)) %>% #
+  ungroup()#
+write_csv(site_plot_loc3, "data/site_plot_locations.csv")
+soil_dat = full_join(soil_chem_physic_init2, soil_chem_physic_periodic)
+soil_dat_ave = soil_dat %>% #
+  mutate(ave_c_perc = ifelse(is.na(ave_c_perc), 0, ave_c_perc),#
+         ave_n_perc = ifelse(is.na(ave_n_perc), 0, ave_n_perc),#
+         ave_ph = ifelse(is.na(ave_ph), 0, ave_ph),#
+         ave_c_perc_periodic = ifelse(is.na(ave_c_perc_periodic), 0, ave_c_perc_periodic),#
+         ave_n_perc_periodic = ifelse(is.na(ave_n_perc_periodic), 0, ave_n_perc_periodic),#
+         ave_ph_periodic = ifelse(is.na(ave_ph_periodic), 0, ave_ph_periodic)) %>% #
+  mutate(ave_c_init_periodic = ave_c_perc + ave_c_perc_periodic,#
+         ave_n_init_periodic = ave_n_perc + ave_n_perc_periodic,#
+         ave_ph_init_periodic = ave_ph + ave_ph_periodic) %>% #
+  mutate(ave_c_init_periodic = ifelse(ave_c_perc == 0 | ave_c_perc_periodic == 0, ave_c_init_periodic, ave_c_init_periodic/2),#
+         ave_n_init_periodic = ifelse(ave_n_perc == 0 | ave_n_perc_periodic == 0, ave_n_init_periodic, ave_n_init_periodic/2),#
+         ave_ph_init_periodic = ifelse(ave_ph == 0 | ave_ph_periodic == 0, ave_ph_init_periodic, ave_ph_init_periodic/2)) %>% #
+  dplyr::select(-ave_c_perc, -ave_n_perc, -ave_ph, -ave_c_perc_periodic,#
+                -ave_n_perc_periodic, -ave_ph_periodic, -yr) %>% #
+  mutate(ave_c_init_periodic = ifelse(ave_c_init_periodic == 0, NA, ave_c_init_periodic),#
+         ave_n_init_periodic = ifelse(ave_n_init_periodic == 0, NA, ave_n_init_periodic),#
+         ave_ph_init_periodic = ifelse(ave_ph_init_periodic == 0, NA, ave_ph_init_periodic)) %>% #
+  group_by(site, plot) %>% #
+  summarise_all(mean, na.rm = T) %>% #
+  ungroup()
+plot(soil_chem_physic_init2$ave_org_matt_perc, soil_chem_physic_init2$ave_c_perc)
+soil_site_ave = group_by(soil_dat_ave, site) %>% #
+  summarise(median_c = median(ave_c_init_periodic, na.rm = T),#
+            median_n = median(ave_n_init_periodic, na.rm = T),#
+            median_ph = median(ave_ph_init_periodic, na.rm = T),#
+            median_s = median(ave_s_perc, na.rm = T),#
+            median_sand = median(ave_sand_perc, na.rm = T),#
+            median_silt = median(ave_silt_perc, na.rm = T),#
+            median_clay = median(ave_clay_perc, na.rm = T))
+soil_data_all = dplyr::select(plt_div4, site, plot) %>% #
+  mutate(site = as.character(site)) %>% #
+  distinct() %>% #
+  left_join(soil_dat_ave) %>% #
+  dplyr::select(-ave_org_matt_perc) %>% #
+  left_join(soil_site_ave) %>% #
+  mutate(ave_c_init_periodic = ifelse(is.finite(ave_c_init_periodic), ave_c_init_periodic, median_c),#
+         ave_n_init_periodic = ifelse(is.finite(ave_n_init_periodic), ave_n_init_periodic, median_n),#
+         ave_ph_init_periodic = ifelse(is.finite(ave_ph_init_periodic), ave_ph_init_periodic, median_ph),#
+         ave_s_perc = ifelse(is.finite(ave_s_perc), ave_s_perc, median_s),#
+         ave_sand_perc = ifelse(is.finite(ave_sand_perc), ave_sand_perc, median_sand),#
+         ave_silt_perc = ifelse(is.finite(ave_silt_perc), ave_silt_perc, median_silt),#
+         ave_clay_perc = ifelse(is.finite(ave_clay_perc), ave_clay_perc, median_clay)) %>% #
+  dplyr::select(-starts_with("median"), ave_c_perc = ave_c_init_periodic, #
+                ave_n_perc = ave_n_init_periodic, ave_ph = ave_ph_init_periodic) %>% #
+  left_join(site_loc) %>% #
+  arrange(site, plot)
+filter(site_plot_loc3, !plot %in% soil_data_all$plot)
+soil_site_ave
+soil_dat_ave
+write_csv(soil_dat_ave, "data/site_plot_soilaverages.csv")
+write_csv(site_plot_loc3, "data/site_plot_locations.csv")
+dir.create("data")
+write_csv(site_plot_loc3, "data/site_plot_locations.csv")
+write_csv(soil_dat_ave, "data/site_plot_soilaverages.csv")
+write_csv(soil_site_ave, "data/site_soilaverages.csv")
+install.packages("pophelper")
+qlist <- readQ("admix.8.meanQ")
+library(pophelper)
+remotes::install_github('royfrancis/pophelper')
+library(remotes)
+install.packages(c("ggplot2","gridExtra","label.switching","tidyr","remotes"),repos="https://cloud.r-project.org")#
+T
+remotes::install_github('royfrancis/pophelper')
+library(pophelper)
+qlist <- readQ("admix.8.meanQ")
+qlist <- readQ("symphyosimple.8.meanQ")
+ind_labels <- readLines("./../sample_list.txt"
+)
+plotQ(qlist,#
+      imgoutput = "join",#
+      grplabbottom = ind_labels,#
+      sortind = NA,#
+      showindlab = TRUE,#
+      outputfilename = "admix_K8_pophelper.png")
+plotQ(qlist,#
+      imgoutput = "join",#
+      indlab = ind_labels,#
+      sortind = NA,            # keep input order#
+      showindlab = TRUE,#
+      outputfilename = "admix_K8_labeled.png")
+plotQ(qlist,#
+      imgoutput = "join",#
+      indlab = ind_labels,#
+      sortind = NA,           #
+      showindlab = TRUE,#
+      outputfilename = "admix_K8_labeled.png")
+plotQ(qlist)
+exportpath=getwd()
+plotQ(qlist)
+plotQ(qlist, exportpath=getwd())
+plotQ(qlist,imgoutput = "join", exportpath=getwd())
+plotQ(qlist,indlab = ind_labels, exportpath=getwd())
+ind_labels
+rownames(qlist[[1]]) <- ind_labels
+qlist
+plotQ(qlist,indlab = ind_labels, showindlab=TRUE,useindlab=TRUE,exportpath=getwd())
+plotQ(qlist,showindlab=TRUE,useindlab=TRUE,exportpath=getwd())
+plotQ(qlist,showindlab=TRUE,useindlab=TRUE,exportpath=getwd(),sortind="all")
+plotQ(qlist,showindlab=TRUE,useindlab=TRUE,exportpath=getwd(),sortind="all", imgtype="pdf")
+plotQ(qlist,showindlab=TRUE,useindlab=TRUE,exportpath=getwd(),sortind="all", imgtype="pdf", basesize=2)
+history
+history()
+library(pophelper)
+qlist <- readQ("./results/americanasimple.11.meanQ")
+ind_labels <- readLines("./sample_list.txt")
+rownames(qlist[[1]]) <- ind_labels
+row.names(qlist[[1]]) <- ind_labels
+rownames(qlist[[1]]) <- ind_labels
+names(qlist[[1]]) <- ind_labels
+rownames(qlist[[1]]) <- ind_labels
+qlist[[1]]
+ind_labels
+length(qlist[[1]])
+length(qlist[1])
+length(qlist[[1]])
+rownames(qlist[[1]]) <- ind_labels
+ind_labels <- readLines("./sample_list_reduced.txt")#
+rownames(qlist[[1]]) <- ind_labels # If there is an invalid rownames length error make sure there is not a length mismatch
+plotQ(qlist,showindlab=TRUE,useindlab=TRUE,exportpath=getwd(),sortind="all", imgtype="pdf", basesize=2)
+plotQ(qlist, exportpath=getwd())
+plotQ(qlist,showindlab=TRUE,useindlab=TRUE,exportpath=getwd(),sortind="all", imgtype="pdf", basesize=.2)
+plotQ(qlist,showindlab=TRUE,useindlab=TRUE,exportpath=getwd(),sortind="all", imgtype="pdf", basesize=1)
+rownames(qlist[[1]]) <- group_labels # If there is an invalid rownames length error make sure there is not a length mismatch
+group_labels <- readLines("./americana_popfile.txt")#
+rownames(qlist[[1]]) <- group_labels # If there is an invalid rownames length error make sure there is not a length mismatch
+plotQ(qlist,sortind=group_labels,exportpath=getwd(),sortind="all", imgtype="pdf", basesize=1)
+group_labels
+plotQ(qlist,sortind=c(group_labels),exportpath=getwd(),sortind="all", imgtype="pdf", basesize=1)
+plotQ(qlist,sortind=order(group_labels),exportpath=getwd(),sortind="all", imgtype="pdf", basesize=1)
+plotQ(qlist, sortind=group_labels, exportpath=getwd(), imgtype="pdf", basesize=1)
+plotQ(qlist, grplab=group_labels, exportpath=getwd(), imgtype="pdf", basesize=1)
+plotQ(qlist, grplab=data.frame(group_labels), exportpath=getwd(), imgtype="pdf", basesize=1)
+md <- read.delim(system.file("./americana_popfile.txt", package="pophelper"),#
+header=TRUE,stringsAsFactors=FALSE)
+md <- read.delim(system.file("./americana_popfile.txt", package="pophelper")
+)
+md <- read.delim(system.file("./americana_popfile.txt", package="pophelper"),header=TRUE,stringsAsFactors=FALSE)
+md <- read.delim(system.file("americana_popfile.txt", package="pophelper"),header=TRUE,stringsAsFactors=FALSE)
+md <- read.delim("./americana_popfile.txt", package="pophelper"),header=TRUE,stringsAsFactors=FALSE)
+md <- read.delim(system.file("americana_popfile.txt", package="pophelper"), header=TRUE, stringsAsFactors=FALSE)
+md <- read.delim(system.file("americana_popfile.txt", package="pophelper"), header=TRUE, stringsAsFactors=FALSE)
+md <- read.delim("americana_popfile.txt", header=TRUE, stringsAsFactors=FALSE)
+md
+md <- read.delim("americana_popfile.txt", header=TRUE, stringsAsFactors=FALSE)
+plotQ(qlist, grplab=data.frame(group_labels), exportpath=getwd(), imgtype="pdf", basesize=1)
+plotQ(qlist=slist[1:2],grplab=md[,2,drop=FALSE],imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+plotQ(qlist=qlist[1:2],grplab=md[,2,drop=FALSE],imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+plotQ(qlist=qlist[1:2],grplab=md[,2,drop=FALSE],imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+plotQ(qlist=qlist[1:2],grplab=data.frame(md[,2,drop=FALSE]),imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+plotQ(qlist=data.frame(qlist[1:2]),grplab=data.frame(md[,2,drop=FALSE]),imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+plotQ(qlist=data.frame(qlist[1:2]),grplab=data.frame(md[,1,drop=FALSE]),imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+md[,2,drop=FALSE]
+md[]
+plotQ(qlist=data.frame(qlist[1:2]),grplab=md,imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+plotQ(qlist=data.frame(qlist[1:2]),grplab=data.frame(md),imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+data.frame(md)
+plotQ(qlist=data.frame(qlist[1:2]),grplab=as.data.frame(md),imgoutput="join",sortind="all",#
+sharedindlab=FALSE,exportpath=getwd())
+as.data.frame(md)
+md
+md
+md <- read.delim("americana_popfile.txt", header=TRUE, stringsAsFactors=FALSE)
+md
+head(md)
+md <- read.delim("americana_popfile.txt", header=FALSE, stringsAsFactors=FALSE)
+head(md)
+md <- md$V1
+md
+plotQ(qlist=data.frame(qlist[1:2]),grplab=md,imgoutput="join",sortind="all", sharedindlab=FALSE,exportpath=getwd())
+dim(qlist[[1]])
+length(grplab_vec)
+length(md)
+sortidx <- order(grplab_vec)#
+#
+plotQ(#
+  qlist = qlist[1:2],#
+  grplab = grplab_vec,#
+  imgoutput = "join",#
+  sortind = sortidx,#
+  sharedindlab = FALSE,#
+  exportpath = getwd()#
+)
+qlist_df <- lapply(qlist[1:2], function(x) as.data.frame(x))#
+plotQ(#
+  qlist = qlist_df,#
+  grplab = grplab_vec,#
+  imgoutput = "join",#
+  sortind = sortidx,#
+  sharedindlab = FALSE,#
+  exportpath = getwd()#
+)
+qlist_df
+sortidx <- order(grplab_vec)#
+#
+plotQ(#
+  qlist = qlist[1:2],#
+  grplab = grplab_vec,#
+  imgoutput = "join",#
+  sortind = sortidx,#
+  sharedindlab = FALSE,#
+  exportpath = getwd()#
+)
+qlist <- qlist[!sapply(qlist, function(x) is.null(x) || nrow(x) == 0)]#
+qlist_df <- lapply(qlist[1:2], function(x) as.data.frame(x))#
+plotQ(#
+  qlist = qlist_df,#
+  grplab = grplab_vec,#
+  imgoutput = "join",#
+  sortind = sortidx,#
+  sharedindlab = FALSE,#
+  exportpath = getwd()#
+)
+qlist <- readQ("./results/americanasimple.11.meanQ")
+qlist <- lapply(qlist, as.data.frame)]
+qlist <- lapply(qlist, as.data.frame)
+qlist <- readQ("./results/americanasimple.11.meanQ")#
+qlist <- lapply(qlist, as.data.frame)#
+ind_labels <- readLines("./sample_list_reduced.txt")#
+rownames(qlist[[1]]) <- ind_labels # If there is an invalid rownames length error make sure there is not a length mismatch#
+md <- read.delim("americana_popfile.txt", header=FALSE, stringsAsFactors=FALSE)
+plotQ(#
+  qlist     = qlist,#
+  grplab    = md,#
+  sortind   = "all",#
+  ordergrp  = TRUE,#
+  imgoutput = "join",#
+  imgtype   = "pdf",#
+  basesize  = 1,#
+  exportpath = getwd()#
+)
+plotQ(#
+  qlist     = qlist,#
+  grplab    = md,#
+  sortind   = "all",#
+  ordergrp  = TRUE,#
+  imgtype   = "pdf",#
+  basesize  = 1,#
+  exportpath = getwd()#
+)
+plotQ(qlist = qlist, grplab = md, sortind = "all", ordergrp = TRUE, showindlab=TRUE, useindlab=TRUE, imgtype = "pdf", basesize = 1, exportpath = getwd())
