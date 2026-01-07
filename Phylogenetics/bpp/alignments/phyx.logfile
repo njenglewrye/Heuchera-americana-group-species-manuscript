@@ -1,0 +1,831 @@
+pxrms -s Locus_1.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_10.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_100.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_101.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_102.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_103.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_104.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_105.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_106.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_107.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_108.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_109.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_11.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_110.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_111.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_112.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_113.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_114.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_115.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_116.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_117.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_118.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_119.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_12.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_120.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_121.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_122.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_123.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_124.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_125.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_126.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_127.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_128.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_129.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_13.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_130.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_131.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_132.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_133.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_134.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_135.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_136.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_137.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_138.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_139.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_14.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_140.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_141.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_142.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_143.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_144.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_145.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_146.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_147.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_148.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_149.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_15.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_150.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_151.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_152.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_153.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_154.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_155.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_156.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_157.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_158.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_159.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_16.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_160.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_161.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_162.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_163.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_164.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_165.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_166.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_167.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_168.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_169.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_17.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_170.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_171.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_172.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_173.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_174.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_175.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_176.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_177.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_178.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_179.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_18.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_180.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_181.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_182.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_183.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_184.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_185.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_186.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_187.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_188.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_189.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_19.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_190.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_191.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_192.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_193.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_194.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_195.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_196.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_197.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_198.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_199.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_2.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_20.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_200.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_201.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_202.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_203.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_204.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_205.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_206.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_207.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_208.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_209.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_21.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_210.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_211.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_212.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_213.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_214.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_215.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_216.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_217.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_218.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_219.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_22.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_220.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_221.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_222.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_223.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_224.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_225.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_226.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_227.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_228.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_229.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_23.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_230.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_231.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_232.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_233.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_234.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_235.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_236.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_237.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_238.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_239.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_24.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_240.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_241.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_242.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_243.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_244.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_245.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_246.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_247.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_248.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_249.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_25.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_250.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_251.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_252.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_253.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_254.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_255.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_256.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_257.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_258.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_259.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_26.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_260.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_261.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_262.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_263.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_264.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_265.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_266.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_267.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_268.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_269.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_27.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_270.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_271.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_272.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_273.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_274.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_275.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_276.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_277.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_278.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_28.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_29.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_3.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_30.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_31.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_32.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_33.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_34.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_35.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_36.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_37.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_38.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_39.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_40.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_41.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_42.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_43.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_44.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_45.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_46.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_47.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_48.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_49.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_5.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_50.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_51.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_52.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_53.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_54.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_55.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_56.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_57.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_58.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_59.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_6.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_60.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_61.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_62.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_63.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_64.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_65.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_66.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_67.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_68.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_69.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_7.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_70.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_71.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_72.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_73.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_74.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_75.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_76.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_77.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_78.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_79.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_8.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_80.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_81.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_82.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_83.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_84.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_85.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_86.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_87.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_88.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_89.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_9.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_90.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_91.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_92.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_93.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_94.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_95.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_96.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_97.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_98.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_99.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_1.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_10.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_100.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_101.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_102.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_103.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_104.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_105.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_106.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_107.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_108.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_109.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_11.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_110.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_111.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_112.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_113.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_114.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_115.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_116.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_117.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_118.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_119.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_12.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_120.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_121.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_122.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_123.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_124.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_125.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_126.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_127.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_128.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_129.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_13.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_130.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_131.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_132.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_133.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_134.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_135.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_136.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_137.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_138.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_139.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_14.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_140.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_141.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_142.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_143.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_144.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_145.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_146.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_147.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_148.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_149.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_15.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_150.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_151.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_152.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_153.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_154.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_155.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_156.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_157.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_158.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_159.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_16.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_160.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_161.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_162.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_163.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_164.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_165.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_166.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_167.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_168.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_169.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_17.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_170.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_171.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_172.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_173.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_174.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_175.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_176.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_177.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_178.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_179.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_18.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_180.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_181.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_182.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_183.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_184.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_185.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_186.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_187.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_188.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_189.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_19.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_190.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_191.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_192.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_193.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_194.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_195.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_196.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_197.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_198.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_199.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_2.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_20.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_200.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_201.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_202.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_203.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_204.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_205.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_206.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_207.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_208.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_209.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_21.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_210.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_211.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_212.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_213.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_214.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_215.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_216.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_217.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_218.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_219.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_22.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_220.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_221.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_222.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_223.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_224.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_225.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_226.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_227.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_228.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_229.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_23.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_230.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_231.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_232.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_233.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_234.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_235.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_236.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_237.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_238.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_239.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_24.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_240.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_241.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_242.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_243.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_244.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_245.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_246.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_247.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_248.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_249.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_25.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_250.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_251.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_252.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_253.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_254.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_255.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_256.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_257.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_258.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_259.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_26.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_260.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_261.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_262.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_263.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_264.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_265.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_266.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_267.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_268.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_269.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_27.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_270.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_271.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_272.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_273.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_274.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_275.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_276.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_277.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_278.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_28.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_29.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_3.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_30.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_31.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_32.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_33.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_34.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_35.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_36.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_37.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_38.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_39.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_40.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_41.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_42.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_43.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_44.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_45.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_46.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_47.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_48.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_49.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_5.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_50.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_51.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_52.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_53.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_54.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_55.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_56.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_57.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_58.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_59.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_6.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_60.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_61.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_62.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_63.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_64.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_65.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_66.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_67.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_68.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_69.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_7.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_70.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_71.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_72.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_73.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_74.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_75.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_76.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_77.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_78.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_79.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_8.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_80.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_81.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_82.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_83.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_84.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_85.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -s Locus_86.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxrms -s Locus_87.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_88.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_89.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_9.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_90.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_91.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_92.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_93.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_94.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_95.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_96.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_97.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_98.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
+pxrms -s Locus_99.50missing.80taxadropped.spruceup.phy -f ./../outgroup_list.txt
+pxs2phy
