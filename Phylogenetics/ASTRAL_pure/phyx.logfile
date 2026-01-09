@@ -1,0 +1,2 @@
+pxrlt -t all_gene_trees.pure.bs10.tre -c old_names.txt -n new_names_putative_species.txt
+pxrlt -t astral.nickfinal.tre -c old_names.txt -n new_names_putative_species.txt
