@@ -1,13 +1,13 @@
 # Filter gene trees by mixed individuals (<90% assignment to top gene pool in STRUCTURE) -- list is in FASTstructure script
 # Then filter to at least 100 genes -- list generated from ASTRAL logs
-cp /mnt/Tobtob/nick/nick_final_spruceup/*best* ./
-for f in *best*; do
+cp /mnt/Tobtob/nick/nick_final_spruceup/RAxML_bipartitions.* ./
+for f in ./RAxML_bipartitions.*; do
 pxrmt -t $f -f mixed_individuals.txt > $f.pure
 pxrmt -t $f.pure -f few_genes.txt > $f.pure.100genes # This one will return no matching tip labels a lot because few gene trees have the taxa.
 done
 
 cat *.pure.100genes > all_gene_trees.pure.tre
-rm *best*
+rm *bipartitions*
 # Check that the gene tree count is correct
 wc -l all_gene_trees.pure.tre
 # Suppress branches with support less than 10 per ASTRAL documentation
