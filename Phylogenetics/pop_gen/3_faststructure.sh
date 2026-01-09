@@ -91,3 +91,15 @@ plotQ(qlist = qlist, grplab = md, sortind = "all", ordergrp = TRUE, imgtype = "p
 plotQ(qlist = qlist, grplab = md, sortind = "all", ordergrp = TRUE, showindlab=TRUE, useindlab=TRUE, imgtype = "pdf", basesize = 1, exportpath = getwd())
 plotQ(qlist, showindlab=TRUE, useindlab=TRUE, exportpath=getwd(),sortind="all", imgtype="pdf", basesize=2)
 
+# Output pure individual and mixed individual, with max assignment probability 90% as the cutoff.
+max_q <- apply(qlist_df[[1]], 1, max)
+pure_individuals  <- names(max_q)[max_q >= 0.9]
+mixed_individuals <- names(max_q)[max_q <  0.9]
+# Percent pure individuals based on cutoff
+length(pure_individuals)/(length(pure_individuals) + length(mixed_individuals))
+# Percent mixed
+1-length(pure_individuals)/(length(pure_individuals) + length(mixed_individuals))
+write.table(pure_individuals, "pure_individuals.txt", row.names = FALSE, col.names = FALSE, quote = FALSE)
+write.table(mixed_individuals, "mixed_individuals.txt", row.names = FALSE, col.names = FALSE, quote = FALSE)
+
+
