@@ -77,6 +77,6 @@ done
 for f in "${arr[@]}"; do
 awk 'NR==1{ s=$0; while(match(s,/([A-Za-z_][A-Za-z0-9_.-]*):/,m)){ if(!(m[1] in seen)){ seen[m[1]]=1; ord[++n]=m[1] } s=substr(s,RSTART+RLENGTH) } }
 { s=$0; while(match(s,/([A-Za-z_][A-Za-z0-9_.-]*):([0-9.+-eE]+)/,m)){ t=m[1]; L=m[2]+0; tot[t]++; if(L!=0) nz[t]++; s=substr(s,RSTART+RLENGTH) } }
-END{ for(i=1;i<=n;i++){ t=ord[i]; printf "%s\t%.6f\n", t, (tot[t]? nz[t]/tot[t] : 0) } }' americana_all.mcmc.rep2partial.collapsed.tre | sort
+END{ for(i=1;i<=n;i++){ t=ord[i]; printf "%s\t%.6f\n", t, (tot[t]? nz[t]/tot[t] : 0) } }' americana_all.mcmc.rep2partial.collapsed.tre | sort > tipspecies_probabilities.${f}.txt
 done
 
