@@ -59,13 +59,13 @@ discriminant <- lda(Species ~ Long_petiole_hair + Short_petiole_hair + Tooth_len
 discriminant.jackknife <- lda(Species ~  Long_petiole_hair + Short_petiole_hair + Tooth_length + Tooth_Width + Flower_length + Hypanthium_long + Hypanthium_short + Flower_width + Stamen_length + Pedicel_lengths + Cymule_branches, data = combined.formatted, na.action="na.omit", CV = TRUE)
 ct <- table(combined.formatted$Species, discriminant.jackknife$class)
 sum(diag(prop.table(ct)))
-#1] 0.6896552
+# 0.7032967
 
 # Predict species by the discriminant function
 discriminant.prediction <- predict(discriminant)
 
 # Create dataframe for plotting
-plotdata <- data.frame(type = combined.formatted$Species, lda = discriminant.prediction$x)
+plotdata <- data.frame(type = combined.formatted$Species, barcode = combined.formatted$Barcode, lda = discriminant.prediction$x)
 
 #Pre fumosimontana
 #library(ggplot2)
@@ -78,18 +78,23 @@ ggplot(plotdata) +
     aes(lda.LD1, lda.LD2, colour = type),
     size = 2.5
   ) +
+  #geom_text(
+  #  aes(lda.LD1, lda.LD2, label = barcode),
+  #  vjust = -0.5
+  #) +
   scale_colour_manual(
     values = c(
       "AMERICANA"      = "#E69F00",
       "BREVIPETALA"    = "#56B4E9",
       "CALYCOSA"       = "#009E73",
-      "FUMOSIMONTANA"  = "#0072B2",  
+      "FUMOSIMONTANA"  = "#0072B2",
       "GRAYANA"        = "#F0E442",
       "HIRSUTICAULIS"  = "#D55E00",
       "HISPIDA"        = "#CC79A7",
       "RICHARDSONII"   = "#999999"
     )
   )
+
 
 
 ### PCA analysis (All taxa [removed "Variegation", "Style_length"] )
@@ -138,7 +143,7 @@ discriminant <- lda(Species ~ Long_petiole_hair + Short_petiole_hair + Tooth_len
 discriminant.jackknife <- lda(Species ~  Long_petiole_hair + Short_petiole_hair + Tooth_length + Tooth_Width + Flower_length + Hypanthium_long + Hypanthium_short + Flower_width + Stamen_length + Pedicel_lengths + Cymule_branches, data = combined.formatted.subset, na.action="na.omit", CV = TRUE)
 ct <- table(combined.formatted.subset$Species, discriminant.jackknife$class)
 sum(diag(prop.table(ct)))
-#[1] 0.6470588
+# 0.6666667
 
 # Predict species by the discriminant function
 discriminant.prediction <- predict(discriminant)
@@ -147,15 +152,121 @@ discriminant.prediction <- predict(discriminant)
 plotdata <- data.frame(type = combined.formatted.subset$Species, lda = discriminant.prediction$x)
 
 library(ggplot2)
-ggplot(plotdata) + geom_point(aes(lda.LD1, lda.LD2, colour = type), size = 2.5)
+
+ggplot(plotdata) +
+  geom_point(
+    aes(x = lda.LD1, y = lda.LD2, colour = type),
+    size = 2.5
+  ) +
+  scale_colour_manual(
+    values = c(
+      "AMERICANA"   = "#E69F00",
+      "BREVIPETALA" = "#56B4E9",
+      "CALYCOSA"    = "#009E73",
+      "HISPIDA"     = "#CC79A7"
+    )
+  )
+# theme_classic() # uncomment if you want all white background
+
+#library(ggplot2)
+#ggplot(plotdata) + geom_point(aes(lda.LD1, lda.LD2, colour = type), size = 2.5)
+
+
 
 # Multivariate MANOVA (all taxa)
 #res.man <- manova(cbind(Variegation, Long_petiole_hair, Short_petiole_hair, Upper_lamina_hair, Tooth_length, Tooth_Width, Flower_length, Hypanthium_long, Hypanthium_short, Flower_width, Stamen_length, Style_length, Pedicel_lengths, Cymule_branches) ~ Species, data = combined)
 res.man <- manova(cbind(Long_petiole_hair, Short_petiole_hair, Tooth_length, Tooth_Width, Flower_length, Hypanthium_long, Hypanthium_short, Flower_width, Stamen_length, Pedicel_lengths, Cymule_branches) ~ Species, data = combined)
 summary(res.man)
 
+# Df Pillai approx F num Df den Df    Pr(>F)    
+# Species     7 2.6341   14.534     77   1855 < 2.2e-16 ***
+#   Residuals 269                                            
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
 # Break down variable importance
 summary.aov(res.man)
+
+# Response 1 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7 247.977  35.425   140.6 < 2.2e-16 ***
+#   Residuals   269  67.775   0.252                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 2 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7 243.230  34.747  117.08 < 2.2e-16 ***
+#   Residuals   269  79.838   0.297                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 3 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7  44.747  6.3925  7.4728 3.201e-08 ***
+#   Residuals   269 230.111  0.8554                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 4 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7  90.992 12.9989  18.086 < 2.2e-16 ***
+#   Residuals   269 193.338  0.7187                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 5 :
+#   Df Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7 162.08 23.1547  49.001 < 2.2e-16 ***
+#   Residuals   269 127.11  0.4725                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 6 :
+#   Df Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7 173.35 24.7644   59.26 < 2.2e-16 ***
+#   Residuals   269 112.41  0.4179                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 7 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7  98.955 14.1364  20.993 < 2.2e-16 ***
+#   Residuals   269 181.143  0.6734                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 8 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7  68.847  9.8353   12.21 1.509e-13 ***
+#   Residuals   269 216.685  0.8055                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 9 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7  89.265 12.7522  22.461 < 2.2e-16 ***
+#   Residuals   269 152.721  0.5677                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 10 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7  42.417  6.0596  6.8627 1.632e-07 ***
+#   Residuals   269 237.520  0.8830                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# Response 11 :
+#   Df  Sum Sq Mean Sq F value    Pr(>F)    
+# Species       7  27.119  3.8742   3.962 0.0003871 ***
+#   Residuals   269 263.039  0.9778                      
+# ---
+#   Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+# 
+# 174 observations deleted due to missingness
+
 
 # Assess species pairwise significance (all taxa)
 # You must drop perfectly correlated values or you will get a rank deficiency error
@@ -166,6 +277,8 @@ library(pairwiseAdonis)
 #pairwise.adonis(combined.formatted[,c("Variegation", "Long_petiole_hair", "Short_petiole_hair", "Upper_lamina_hair", "Tooth_length", "Tooth_Width", "Flower_length", "Hypanthium_long", "Hypanthium_short", "Flower_width", "Stamen_length", "Style_length", "Pedicel_lengths", "Cymule_branches")], combined.formatted$Species, sim.method = "euclidean", p.adjust.m = "hochberg", perm = 10000)
 pairwise.adonis(combined.formatted[,c("Long_petiole_hair", "Short_petiole_hair", "Tooth_length", "Tooth_Width", "Flower_length", "Hypanthium_long", "Hypanthium_short", "Flower_width", "Stamen_length", "Pedicel_lengths", "Cymule_branches")], combined.formatted$Species, sim.method = "euclidean", p.adjust.m = "hochberg", perm = 10000)
 
+
+
 # Assess species pairwise significance (subset americana group)
 # You must drop perfectly correlated values or you will get a rank deficiency error
 #library(devtools)
@@ -173,6 +286,7 @@ pairwise.adonis(combined.formatted[,c("Long_petiole_hair", "Short_petiole_hair",
 library(pairwiseAdonis)
 #pairwise.adonis(combined.formatted.subset[,c("Variegation", "Long_petiole_hair", "Short_petiole_hair", "Upper_lamina_hair", "Tooth_length", "Tooth_Width", "Flower_length", "Hypanthium_long", "Hypanthium_short", "Flower_width", "Stamen_length", "Style_length", "Pedicel_lengths", "Cymule_branches")], combined.formatted.subset$Species, sim.method = "euclidean", p.adjust.m = "hochberg", perm = 10000)
 pairwise.adonis(combined.formatted.subset[,c("Long_petiole_hair", "Short_petiole_hair", "Tooth_length", "Tooth_Width", "Flower_length", "Hypanthium_long", "Hypanthium_short", "Flower_width", "Stamen_length", "Pedicel_lengths", "Cymule_branches")], combined.formatted.subset$Species, sim.method = "euclidean", p.adjust.m = "hochberg", perm = 10000)
+
 
 
 ## Confusion matrix
