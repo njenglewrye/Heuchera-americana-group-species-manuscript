@@ -76,7 +76,7 @@ library(ggplot2)
 ggplot(plotdata) +
   geom_point(
     aes(lda.LD1, lda.LD2, colour = type),
-    size = 2.5
+    size = 3
   ) +
   #geom_text(
   #  aes(lda.LD1, lda.LD2, label = barcode),
@@ -156,7 +156,7 @@ library(ggplot2)
 ggplot(plotdata) +
   geom_point(
     aes(x = lda.LD1, y = lda.LD2, colour = type),
-    size = 2.5
+    size = 3
   ) +
   scale_colour_manual(
     values = c(
