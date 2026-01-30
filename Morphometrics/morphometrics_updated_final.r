@@ -143,7 +143,7 @@ discriminant <- lda(Species ~ Long_petiole_hair + Short_petiole_hair + Tooth_len
 discriminant.jackknife <- lda(Species ~  Long_petiole_hair + Short_petiole_hair + Tooth_length + Tooth_Width + Flower_length + Hypanthium_long + Hypanthium_short + Flower_width + Stamen_length + Pedicel_lengths + Cymule_branches, data = combined.formatted.subset, na.action="na.omit", CV = TRUE)
 ct <- table(combined.formatted.subset$Species, discriminant.jackknife$class)
 sum(diag(prop.table(ct)))
-# 0.6666667
+# 0.6470588
 
 # Predict species by the discriminant function
 discriminant.prediction <- predict(discriminant)
