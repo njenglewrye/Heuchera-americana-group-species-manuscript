@@ -1,0 +1,2493 @@
+pxrms -s ./alignments/Locus_1.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_10.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_100.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_101.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_102.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_103.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_104.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_105.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_106.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_107.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_108.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_109.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_11.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_110.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_111.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_112.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_113.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_114.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_115.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_116.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_117.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_118.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_119.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_12.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_120.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_121.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_122.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_123.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_124.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_125.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_126.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_127.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_128.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_129.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_13.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_130.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_131.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_132.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_133.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_134.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_135.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_136.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_137.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_138.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_139.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_14.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_140.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_141.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_142.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_143.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_144.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_145.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_146.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_147.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_148.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_149.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_15.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_150.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_151.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_152.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_153.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_154.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_155.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_156.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_157.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_158.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_159.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_16.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_160.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_161.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_162.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_163.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_164.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_165.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_166.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_167.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_168.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_169.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_17.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_170.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_171.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_172.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_173.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_174.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_175.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_176.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_177.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_178.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_179.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_18.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_180.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_181.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_182.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_183.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_184.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_185.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_186.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_187.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_188.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_189.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_19.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_190.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_191.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_192.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_193.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_194.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_195.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_196.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_197.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_198.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_199.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_2.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_20.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_200.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_201.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_202.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_203.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_204.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_205.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_206.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_207.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_208.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_209.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_21.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_210.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_211.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_212.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_213.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_214.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_215.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_216.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_217.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_218.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_219.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_22.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_220.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_221.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_222.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_223.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_224.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_225.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_226.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_227.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_228.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_229.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_23.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_230.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_231.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_232.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_233.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_234.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_235.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_236.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_237.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_238.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_239.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_24.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_240.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_241.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_242.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_243.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_244.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_245.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_246.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_247.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_248.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_249.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_25.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_250.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_251.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_252.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_253.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_254.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_255.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_256.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_257.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_258.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_259.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_26.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_260.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_261.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_262.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_263.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_264.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_265.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_266.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_267.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_268.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_269.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_27.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_270.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_271.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_272.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_273.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_274.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_275.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_276.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_277.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_278.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_28.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_29.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_3.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_30.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_31.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_32.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_33.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_34.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_35.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_36.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_37.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_38.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_39.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_40.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_41.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_42.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_43.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_44.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_45.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_46.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_47.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_48.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_49.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_5.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_50.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_51.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_52.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_53.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_54.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_55.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_56.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_57.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_58.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_59.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_6.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_60.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_61.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_62.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_63.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_64.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_65.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_66.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_67.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_68.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_69.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_7.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_70.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_71.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_72.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_73.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_74.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_75.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_76.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_77.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_78.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_79.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_8.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_80.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_81.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_82.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_83.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_84.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_85.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_86.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_87.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_88.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_89.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_9.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_90.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_91.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_92.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_93.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_94.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_95.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_96.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_97.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_98.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_99.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_1.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_10.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_100.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_101.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_102.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_103.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_104.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_105.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_106.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_107.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_108.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_109.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_11.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_110.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_111.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_112.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_113.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_114.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_115.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_116.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_117.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_118.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_119.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_12.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_120.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_121.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_122.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_123.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_124.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_125.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_126.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_127.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_128.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_129.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_13.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_130.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_131.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_132.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_133.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_134.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_135.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_136.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_137.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_138.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_139.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_14.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_140.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_141.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_142.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_143.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_144.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_145.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_146.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_147.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_148.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_149.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxs2phy
+pxrms -s ./alignments/Locus_15.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_150.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_151.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_152.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_153.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_154.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_155.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_156.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_157.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_158.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_159.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_16.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_160.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_161.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_162.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_163.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_164.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_165.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_166.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_167.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_168.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_169.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_17.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_170.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_171.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_172.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_173.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_174.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_175.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_176.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_177.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_178.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_179.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_18.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_180.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_181.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_182.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_183.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_184.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_185.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_186.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_187.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_188.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_189.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_19.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_190.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_191.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_192.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_193.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_194.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_195.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_196.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_197.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_198.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_199.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_2.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_20.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_200.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_201.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_202.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_203.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_204.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_205.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_206.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_207.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_208.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_209.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_21.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_210.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_211.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_212.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_213.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_214.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_215.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_216.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_217.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_218.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_219.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_22.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_220.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_221.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_222.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_223.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_224.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_225.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_226.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_227.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_228.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_229.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_23.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_230.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_231.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_232.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_233.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_234.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_235.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_236.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_237.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_238.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_239.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_24.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_240.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_241.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_242.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_243.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_244.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_245.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_246.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_247.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_248.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_249.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_25.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_250.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_251.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_252.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_253.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_254.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_255.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_256.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_257.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_258.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_259.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_26.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_260.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_261.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_262.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_263.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_264.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_265.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_266.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_267.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_268.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_269.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_27.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_270.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_271.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_272.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_273.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_274.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_275.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_276.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_277.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_278.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_28.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_29.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_3.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_30.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_31.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_32.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_33.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_34.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_35.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_36.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_37.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_38.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_39.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_40.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_41.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_42.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_43.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_44.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_45.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_46.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_47.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_48.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_49.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_5.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_50.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_51.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_52.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_53.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_54.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_55.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_56.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_57.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_58.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_59.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_6.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_60.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_61.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_62.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_63.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_64.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_65.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_66.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_67.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_68.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_69.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_7.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_70.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_71.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_72.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_73.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_74.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_75.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_76.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_77.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_78.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_79.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_8.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_80.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_81.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_82.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_83.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_84.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_85.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_86.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_87.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_88.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_89.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_9.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_90.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_91.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_92.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_93.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_94.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_95.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_96.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_97.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_98.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_99.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_1.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_10.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_100.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_101.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_102.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_103.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_104.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_105.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_106.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_107.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_108.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_109.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_11.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_110.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_111.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_112.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_113.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_114.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_115.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_116.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_117.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_118.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_119.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_12.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_120.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_121.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_122.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_123.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_124.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_125.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_126.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_127.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_128.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_129.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_13.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_130.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_131.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_132.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_133.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_134.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_135.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_136.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_137.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_138.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_139.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_14.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_140.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_141.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_142.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_143.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_144.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_145.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_146.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_147.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_148.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_149.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_15.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_150.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_151.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_152.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_153.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_154.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_155.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_156.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_157.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_158.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_159.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_16.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_160.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_161.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_162.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_163.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_164.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_165.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_166.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_167.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_168.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_169.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_17.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_170.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_171.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_172.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_173.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_174.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_175.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_176.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_177.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_178.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_179.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_18.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_180.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_181.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_182.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_183.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_184.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_185.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_186.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_187.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_188.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_189.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_19.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_190.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_191.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_192.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_193.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_194.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_195.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_196.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_197.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_198.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_199.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_2.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_20.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_200.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_201.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_202.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_203.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_204.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_205.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_206.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_207.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_208.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_209.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_21.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_210.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_211.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_212.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_213.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_214.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_215.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_216.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_217.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_218.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_219.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_22.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_220.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_221.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_222.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_223.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_224.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_225.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_226.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_227.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_228.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_229.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_23.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_230.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_231.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_232.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_233.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_234.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_235.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_236.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_237.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_238.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_239.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_24.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_240.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_241.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_242.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_243.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_244.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_245.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_246.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_247.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_248.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_249.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_25.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_250.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_251.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_252.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_253.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_254.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_255.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_256.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_257.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_258.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_259.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_26.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_260.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_261.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_262.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_263.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_264.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_265.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_266.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_267.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_268.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_269.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_27.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_270.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_271.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_272.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_273.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_274.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_275.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_276.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_277.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_278.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_28.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_29.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_3.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_30.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_31.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_32.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_33.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_34.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_35.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_36.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_37.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_38.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_39.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_40.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_41.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_42.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_43.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_44.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_45.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_46.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_47.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_48.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_49.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_5.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_50.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_51.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_52.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_53.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_54.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_55.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_56.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_57.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_58.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_59.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_6.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_60.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_61.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_62.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_63.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_64.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_65.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_66.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_67.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_68.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_69.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_7.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_70.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_71.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_72.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_73.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_74.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_75.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_76.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_77.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_78.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_79.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_8.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_80.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_81.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_82.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_83.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_84.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_85.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_86.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_87.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_88.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_89.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_9.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_90.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_91.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_92.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_93.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_94.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_95.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_96.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_97.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_98.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_99.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_1.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_10.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_100.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_101.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_102.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_103.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_104.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_105.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_106.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_107.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_108.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_109.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_11.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_110.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_111.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_112.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_113.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_114.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_115.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_116.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_117.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_118.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_119.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_12.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_120.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_121.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_122.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_123.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_124.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_125.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_126.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_127.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_128.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_129.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_13.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_130.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_131.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_132.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_133.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_134.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_135.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_136.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_137.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_138.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_139.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_14.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_140.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_141.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_142.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_143.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_144.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_145.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_146.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_147.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_148.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_149.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_15.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_150.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_151.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_152.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_153.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_154.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_155.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_156.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_157.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_158.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_159.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_16.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_160.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_161.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_162.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_163.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_164.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_165.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_166.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_167.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_168.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_169.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_17.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_170.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_171.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_172.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_173.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_174.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_175.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_176.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_177.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_178.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_179.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_18.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_180.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_181.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_182.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_183.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_184.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_185.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_186.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_187.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_188.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_189.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_19.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_190.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_191.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_192.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_193.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_194.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_195.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_196.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_197.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_198.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_199.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_2.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_20.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_200.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_201.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_202.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_203.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_204.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_205.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_206.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_207.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_208.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_209.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_21.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_210.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_211.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_212.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_213.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_214.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_215.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_216.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_217.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_218.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_219.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_22.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_220.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_221.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_222.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_223.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_224.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_225.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_226.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_227.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_228.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_229.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_23.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_230.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_231.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_232.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_233.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_234.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_235.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_236.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_237.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -s ./alignments/Locus_238.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_239.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_24.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_240.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_241.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_242.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_243.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_244.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_245.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_246.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_247.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_248.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_249.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_25.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_250.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_251.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_252.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_253.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_254.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_255.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_256.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_257.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_258.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_259.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_26.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_260.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_261.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_262.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_263.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_264.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_265.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_266.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_267.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_268.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_269.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_27.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_270.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_271.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_272.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_273.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_274.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_275.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_276.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_277.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_278.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_28.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_29.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_3.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_30.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_31.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_32.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_33.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_34.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_35.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_36.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_37.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_38.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_39.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_40.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_41.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_42.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_43.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_44.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_45.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_46.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_47.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_48.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_49.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_5.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_50.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_51.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_52.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_53.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_54.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_55.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_56.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_57.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_58.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_59.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_6.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_60.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_61.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_62.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_63.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_64.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_65.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_66.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_67.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_68.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_69.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_7.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_70.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_71.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_72.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_73.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_74.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_75.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_76.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_77.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -f outgroup_list.txt
+pxrms -s ./alignments/Locus_78.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxs2phy
+pxrms -s ./alignments/Locus_79.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_8.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_80.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_81.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_82.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_83.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_84.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_85.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_86.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_87.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_88.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_89.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_9.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_90.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_91.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_92.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_93.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_94.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_95.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_96.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_97.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_98.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
+pxrms -s ./alignments/Locus_99.50missing.80taxadropped.spruceup.phy.reduced -f mixed_individuals.txt
+pxrms -f outgroup_list.txt
+pxs2phy
