@@ -8,7 +8,7 @@ conda activate fastStructure
 # only do this once:
 #conda install bioconda::faststructure
 
-# ask ryan how to get VCF
+
 
 ########################################
 # Generate popfile from renaming script
